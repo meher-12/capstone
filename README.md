@@ -2,7 +2,7 @@ AI HYBRID auditor
 
 1. The Target Users (Personas)
 
-1. The Overwhelmed DevOps/Cloud Engineer (Your Internship Manager): Manages hundreds of cloud resources. Constantly stressed about hidden security vulnerabilities and missing tags.
+1. The Overwhelmed DevOps/Cloud Engineer : Manages hundreds of cloud resources. Constantly stressed about hidden security vulnerabilities and missing tags.
 2. The FinOps Analyst / CFO: Doesn't care about code; cares about the cloud bill. Constantly frustrated by unattached disks and idle instances burning money.
 
 ⚠️ 2. Their Core Pain Points
